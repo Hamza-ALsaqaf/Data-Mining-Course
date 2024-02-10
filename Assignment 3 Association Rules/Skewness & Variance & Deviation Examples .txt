@@ -1,0 +1,38 @@
+Skewness:
+Skewness is a statistical metric that gauges the asymmetry present in a set of data. It reveals whether the data distribution leans to the left (negative skewness), tilts to the right (positive skewness), or maintains a symmetrical pattern (zero skewness). By assessing skewness, one can discern the potential presence of outliers and gain insights into the overall shape of the data distribution.
+
+### Skewness Example:
+
+Consider two sets of exam scores:
+
+Set A: 65, 70, 72, 75, 78
+
+Set B: 85, 80, 78, 75, 70
+
+For Set A, the distribution is skewed to the right because most scores are clustered on the left, indicating a negative skewness. In contrast, Set B is skewed to the left, showing a positive skewness as the majority of scores are concentrated on the right. Skewness helps us recognize the direction and extent of the asymmetry in these score distributions.
+
+Variance:
+Variance serves as a measure of how widely dispersed data points are around their average, or mean. It computes the average of the squared differences between each data point and the mean. A higher variance signals a broader distribution and increased variability among the data points, while a lower variance indicates a more tightly clustered distribution.
+
+### Variance Example:
+
+Imagine two investment portfolios:
+
+Portfolio X: 5%, 8%, 10%, 12%, 15%
+
+Portfolio Y: 8%, 8.5%, 9%, 9.5%, 10%
+
+Portfolio X has a higher variance since the returns deviate more from the average, reflecting greater variability. In contrast, Portfolio Y has a lower variance as the returns are more closely grouped around the mean, indicating a more stable and predictable investment performance.
+
+Standard Deviation:
+Standard deviation provides a metric for the spread of data points concerning the mean. It quantifies the average distance between each data point and the mean. A higher standard deviation implies a greater degree of dispersion and variability within the data, whereas a lower standard deviation suggests that the data points are closer to the mean.
+
+### Standard Deviation Example:
+
+Consider the daily temperatures in two cities:
+
+City P: 25°C, 28°C, 30°C, 25°C, 27°C
+
+City Q: 18°C, 25°C, 20°C, 22°C, 19°C
+
+City P has a higher standard deviation, suggesting more variability in daily temperatures. In contrast, City Q has a lower standard deviation, indicating that its daily temperatures are more consistent and less scattered around the average.
